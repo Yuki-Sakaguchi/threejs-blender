@@ -1,5 +1,7 @@
 # blenderで作った３DモデルをWebに表示
 
+![result](https://user-images.githubusercontent.com/16290220/129480760-f0fde325-7222-4b4e-9e0c-0f1fcdf58324.gif)
+
 ## DEMO
 https://yuki-sakaguchi.github.io/threejs-blender/
 
